@@ -1,0 +1,108 @@
+﻿?@^/#~
+
+@rtspt://stream.vrcdn.live/live/aryhith
+~Aryhith (VRCDN)
+
+@rtspt://stream.vrcdn.live/live/sladeax
+~SladeAx (VRCDN)
+
+@rtspt://stream.vrcdn.live/live/defreeze
+~Defreeze (VRCDN)
+
+@rtspt://stream.vrcdn.live/live/kex
+~Kex (VRCDN)
+
+@https://www.twitch.tv/aryhith
+^https://www.twitch.tv/aryhith
+~Aryhith (Twitch.tv)
+
+@https://www.twitch.tv/kex_vr
+^https://www.twitch.tv/kex_vr
+~Kex (Twitch.tv)
+
+@https://www.twitch.tv/noaidi42
+^https://www.twitch.tv/noaidi42
+~Noaidi (Twitch.tv)
+
+@https://www.twitch.tv/robatoony
+^https://www.twitch.tv/robatoony
+~Rob-A-Toony (Twitch.tv)
+
+@https://www.twitch.tv/starbytemouse
+^https://www.twitch.tv/starbytemouse
+~Starbyte (Twitch.tv)
+
+@https://www.twitch.tv/bassicfelix
+^https://www.twitch.tv/bassicfelix
+~Modeloyote (Felix) (Twitch.tv)
+
+@https://www.twitch.tv/zealozoic
+^https://www.twitch.tv/zealozoic
+~Zealozoic (Twitch.tv)
+
+@https://www.twitch.tv/sladeax
+^https://www.twitch.tv/sladeax
+~SladeAx (Twitch.tv)
+
+@https://www.twitch.tv/gamepenguin21
+^https://www.twitch.tv/gamepenguin21
+~Gamepenguin21 (Twitch.tv)
+
+@https://www.twitch.tv/dvize1
+^https://www.twitch.tv/dvize1
+~Dvize (Twitch.tv)
+
+@https://www.twitch.tv/thedefreeze
+^https://www.twitch.tv/thedefreeze
+~DeFreeze (Twtich.tv)
+
+@https://www.twitch.tv/dj_zephin
+^https://www.twitch.tv/dj_zephin
+~DJ Zephin (Twitch.tv)
+
+@https://www.twitch.tv/djdarkfade
+^https://www.twitch.tv/djdarkfade
+~DJ DARKFADE (Twitch.tv)
+
+@rtspt://stream.vrcdn.live/live/inc0
+~Inconsistent (VRCDN)
+
+@https://www.twitch.tv/inconsistent
+^https://www.twitch.tv/inconsistent
+~Inconsistent (Twitch.tv)
+
+@https://youtu.be/j6QqIbRPQ34?si=Yjn5VpiJx8d0hgYp
+^https://youtu.be/j6QqIbRPQ34?si=Yjn5VpiJx8d0hgYp
+~Marlon Hoffstadt B2B Malugi | Boiler Room London: Club Heart Broken
+
+@https://www.youtube.com/watch?v=c0-hvjV2A5Y
+^https://www.youtube.com/watch?v=c0-hvjV2A5Y
+~Fred Again Boiler Room
+
+@https://www.youtube.com/watch?v=dFfC92iBxNw
+^https://www.youtube.com/watch?v=dFfC92iBxNw
+~Skrillex, Four Tet, Fred Again Coachella Set 2023
+
+@https://www.youtube.com/watch?v=UedTcufyrHc&pp=ygUNY2hpbGxzeW50aCBmbQ%3D%3D
+^https://www.youtube.com/watch?v=UedTcufyrHc&pp=ygUNY2hpbGxzeW50aCBmbQ%3D%3D
+~Chillsynth FM (Youtube Live)
+
+@https://www.youtube.com/watch?v=sLcvUGn_4VM
+^https://www.youtube.com/watch?v=sLcvUGn_4VM
+~Sammy Virji UKG Bassline Set - DJ Mag HQ
+
+@https://www.youtube.com/watch?v=0b8Ayb6eWLg
+^https://www.youtube.com/watch?v=0b8Ayb6eWLg
+~Old Skool Anthems [Old Skool Mix]
+
+@https://www.youtube.com/watch?v=HQGeqGcz67k
+^https://www.youtube.com/watch?v=HQGeqGcz67k
+~UK Bounce Mix - Donk-Kandi Mixed By Davey J - DHR
+
+@https://www.youtube.com/watch?v=e9gpVPeI360&t=4290s&pp=ygUJaG91c2UgbWl4
+^https://www.youtube.com/watch?v=e9gpVPeI360&t=4290s&pp=ygUJaG91c2UgbWl4
+~Book Club Radio - Selena Faider Energetic House Mix
+
+@https://www.youtube.com/watch?v=qwVq2xVl-BY&t=3708s&pp=ygUJaG91c2UgbWl4
+^https://www.youtube.com/watch?v=qwVq2xVl-BY&t=3708s&pp=ygUJaG91c2UgbWl4
+~Defected Records - Coco & Breezy Uplifting House Music Mix
