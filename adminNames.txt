@@ -27,9 +27,6 @@ _Harlequin_
 Sweets the Fox
 Wymsy
 Zarkeos
-<<<<<<< Updated upstream
 Dunsmodrion
-=======
 Pup Daniel
->>>>>>> Stashed changes
 Alpha.Monster
